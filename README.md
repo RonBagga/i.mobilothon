@@ -94,21 +94,8 @@ Real-time alerts are delivered via:
 
 ## 👨‍💻 Team Learners
 
-- **Team Leader**: Vansh Kalra  
-- **Team Members**: Ronit Bagga, Rohan Chauhan  
+- **Team Leader**: Ronit Bagga  
+- **Team Members**: Rohan Chauhan  
 - **Institution**: JIMS Engineering Management Technical Campus  
 - **Project Title**: Brake Shoe Pad Replacement Prediction  
 
----
-
-## 📜 License
-
-This project is for academic and research purposes. Please contact the team for collaboration or commercial use.
-
----
-
-## 🙌 Acknowledgments
-
-- Faculty mentors from JIMS Engineering
-- Platforms like Scikit-learn, Arduino, and Google Cloud
-- All contributors to open-source sensor libraries and IoT protocols
